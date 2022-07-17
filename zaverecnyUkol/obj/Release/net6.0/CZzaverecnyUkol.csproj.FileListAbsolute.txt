@@ -1,0 +1,5 @@
+C:\Users\Nessy\Dropbox\C#\Zaverecny ukol\CZzaverecnyUkol\zaverecnyUkol\obj\Release\net6.0\CZzaverecnyUkol.csproj.AssemblyReference.cache
+C:\Users\Nessy\Dropbox\C#\Zaverecny ukol\CZzaverecnyUkol\zaverecnyUkol\obj\Release\net6.0\CZzaverecnyUkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nessy\Dropbox\C#\Zaverecny ukol\CZzaverecnyUkol\zaverecnyUkol\obj\Release\net6.0\CZzaverecnyUkol.AssemblyInfoInputs.cache
+C:\Users\Nessy\Dropbox\C#\Zaverecny ukol\CZzaverecnyUkol\zaverecnyUkol\obj\Release\net6.0\CZzaverecnyUkol.AssemblyInfo.cs
+C:\Users\Nessy\Dropbox\C#\Zaverecny ukol\CZzaverecnyUkol\zaverecnyUkol\obj\Release\net6.0\CZzaverecnyUkol.csproj.CoreCompileInputs.cache
